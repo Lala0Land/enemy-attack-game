@@ -35,7 +35,7 @@ python game.py
 - Add sound effects for a better experience!  
 
 ## Screenshots 📸
-![Demo]([https://github.com/your-username/enemy-attack-game/blob/main/demo/demo.gif](https://github.com/Lala0Land/enemy-attack-game/blob/main/demo))
+![Demo]([enemy-attack-game/demo))
 
 
 ## Contribute & Support 🤝
